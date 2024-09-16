@@ -1,0 +1,10 @@
+adminUser:
+  name: admin-user
+
+namespace: kubernetes-dashboard
+
+kubernete-dashboard:
+  enabled: true
+
+  ingress:
+    enabled: false
